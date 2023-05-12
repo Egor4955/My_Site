@@ -2,4 +2,5 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 
-title: [Моя страничка (https://img.hhcdn.ru/photo/600716920.jpeg?t=1683962380&h=0JiYW4BZ7dOcnfcC2fEfsg) ]
+title: [Моя страничка]
+description: [![](https://img.hhcdn.ru/photo/600716920.jpeg?t=1683962380&h=0JiYW4BZ7dOcnfcC2fEfsg)]
