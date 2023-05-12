@@ -1,4 +1,4 @@
-
+![](https://img.hhcdn.ru/photo/600716920.jpeg?t=1683962380&h=0JiYW4BZ7dOcnfcC2fEfsg)
 
 
 >### Меня зовут Егор, я живу в г. Владивосток. 
